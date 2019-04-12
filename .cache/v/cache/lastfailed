@@ -1,0 +1,4 @@
+{
+  "tests/test_generatir.py::test_generate_buzz_of_at_least_five_words": true,
+  "tests/test_generatir.py::test_sample_multiple_words": true
+}

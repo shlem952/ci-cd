@@ -13,7 +13,7 @@ def sample(l, n = 1):
     result = random.sample(l, n)
     if n == 1:
         return result[0]
-    return result
+    return result1
 
 
 def generate_buzz():
